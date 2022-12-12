@@ -1,0 +1,9 @@
+table,th,td{
+    border-collapse: collapse;
+    border : 1px solid;
+}
+#getex{
+    margin-left: 25%;
+    color: darkblue;
+    text-align:left;
+}
